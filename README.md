@@ -4,6 +4,12 @@
 <br>
 <!--贡献图-->
 <div align="center"> <img src="https://metrics.lecoq.io/microDreamSheep?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=microDreamSheep&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microDreamSheep&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
