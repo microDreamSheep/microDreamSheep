@@ -2,7 +2,10 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
-
+<!--贡献图-->
 <div align="center"> <img src="https://metrics.lecoq.io/microDreamSheep?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microDreamSheep&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=microDreamSheep&theme=xcode" /> </div>
